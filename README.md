@@ -1,5 +1,5 @@
-# statistics-2-extra-activities
-Extra activities, case studies, and applied projects for Statistics 2 course.
+# Advanced Statistics Projects
+Extra activities, case studies, and applied projects for Statistics  course.
 
 This repository contains extra activities, applied case studies, and mini projects completed as part of the Statistics 2 course.
 
